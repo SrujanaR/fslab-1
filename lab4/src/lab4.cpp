@@ -1,6 +1,6 @@
 //============================================================================
 // Name        : lab4.cpp
-// Author      : 
+// Author      : srujana
 // Version     :
 // Copyright   : Your copyright notice
 // Description : Hello World in C++, Ansi-style
